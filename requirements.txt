@@ -1,3 +1,7 @@
+import the following libaries
 pandas
 scikit-learn
 xgboost
+
+install pip streamlit
+download spyder application
